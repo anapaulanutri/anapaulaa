@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+#menu{
+    background: white; color: #A1394A;
+    ;
+    font-family: cocogoose;
+    padding: 30px;
+    font-size: 40px;
+    text-align-last: center;
+    width: 100%;
+}
+a{
+    color:#A1394A;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 40px;
+    padding: 29px  
+}
+    
+#eu {
+    border: 2px;
+    float: left;
+}
+ 
+    
+#eu2 {
+    color:#A1394A;
+    font-family: cocogoose pro;
+    font-size: 50px;
+    float: left;
+    margin-top: 300px;
+}
+
+body{
+    background: #DBE7F3;
+}
